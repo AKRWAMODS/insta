@@ -1,4 +1,60 @@
-Version 4. Changelog:
+Version 10. Changelog:
 
-> New update
-> endi induo ninek sam myren umbi 😂👍
+[•• WARNING ••]
+
+IF YOU DO NOT WANT TO SEE THIS UPDATE NOTIFICATION, YOU CAN DISABLE UPDATES FROM "AeroInsta Settings > Service > Disable updates".
+
+××××××××
+
+AeroInsta V16.0.2 Update Details:
+
+• [Fixed] Some issues fixed.
+
+• [Fixed] Hide live view ghost viewer join text.
+
+××××××××
+
+AeroInsta V16.0.1 Update Details:
+
+• [Fixed] Some download issues fixed.
+
+• [Fixed] Other minor fixes.
+
+××××××××
+
+AeroInsta V16.0.0 Update Details:
+
+• [Base Update] 191.1.0.41.124
+
+• [Added] Some minor enable and disable options.
+
+• [Added] New languages added to the translation options.
+
+• [Fixed] Some download issues.
+
+• [Fixed] Comment translation bugs.
+
+• [Updated] Layout and other source files for fewer bugs.
+
+[•• COLORS ••]
+
+- Default
+
+- Gold
+
+- Red
+
+- Extra Dark
+
+- Blue
+
+- Coral Pink
+
+- Green
+
+- Light Tone
+
+- Light Purple
+
+- Light Pink
+
